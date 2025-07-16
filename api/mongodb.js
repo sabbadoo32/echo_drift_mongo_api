@@ -1,10 +1,13 @@
 import { MongoClient } from "mongodb";
 
+console.log("ENV DUMP:", process.env); // 👈 Add this line
+
+const uri = process.env.MONGODB_URI;
+console.log("Using URI:", uri);
+
 let cachedClient = null;
 
 export default async function handler(req, res) {
-  const uri = process.env.MONGODB_URI;
-
   if (!cachedClient) {
     const client = new MongoClient(uri);
     try {
