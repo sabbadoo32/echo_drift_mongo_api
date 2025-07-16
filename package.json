@@ -1,7 +1,8 @@
 {
   "name": "echo-drift-mongo-api",
   "version": "1.0.0",
-  "type": "module",
+  "description": "Serverless API for Echo Drift GPT to connect to MongoDB",
+  "main": "api/mongodb.js",
   "dependencies": {
     "mongodb": "^5.7.0"
   }
