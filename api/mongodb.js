@@ -1,26 +1,16 @@
 import { MongoClient } from "mongodb";
 
-const uri = process.env.MONGODB_URI;
-console.log("Using URI:", uri);
-
-const client = new MongoClient(uri);
+let cachedClient = null;
 
 export default async function handler(req, res) {
-  try {
-    console.log("Connecting to Mongo...");
-    await client.connect();
-    console.log("Connected");
+  const uri = process.env.MONGODB_URI;
 
-    const db = client.db("EchoDrift");
-    const collection = db.collection("Modules");
-    const data = await collection.find({}).toArray();
-
-    console.log("Fetched data:", data);
-    res.status(200).json(data);
-  } catch (error) {
-    console.error("MongoDB error:", error);
-    res.status(500).json({ error: "Failed to connect to MongoDB", detail: error.message });
-  } finally {
-    await client.close();
-  }
-}
+  if (!cachedClient) {
+    const client = new MongoClient(uri);
+    try {
+      await client.connect();
+      cachedClient = client;
+      console.log("New MongoDB connection established");
+    } catch (error) {
+      console.error("MongoDB connection error:", error);
+      return res.status(500).json({ error: "MongoDB connection failed", detail: error.message
