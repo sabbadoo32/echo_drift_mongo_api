@@ -1,28 +1,28 @@
-import { MongoClient } from 'mongodb';
+// File: api/mongodb.js
 
-let cachedClient = null;
+import { MongoClient } from "mongodb";
+
+const uri = process.env.MONGODB_URI;
+
+if (!uri) {
+  throw new Error("Missing MONGODB_URI environment variable");
+}
+
+const client = new MongoClient(uri);
 
 export default async function handler(req, res) {
-  const uri = "mongodb+srv://sebastianjames:d%402119ChartwellDrive@cluster0.gh4va.mongodb.net/EchoDrift?retryWrites=true&w=majority&appName=Cluster0";
-
-  console.log("Connecting to MongoDB...");
-
   try {
-    if (!cachedClient) {
-      const client = new MongoClient(uri);
-      cachedClient = await client.connect();
-      console.log("New MongoDB connection established");
-    } else {
-      console.log("Reusing cached MongoDB connection");
-    }
+    await client.connect();
 
-    const db = cachedClient.db("EchoDrift");
-    const collection = db.collection("Modules");
+    const db = client.db("EchoDrift");
+    const collection = db.collection("Modules"); // Use the correct collection
+
     const data = await collection.find({}).toArray();
-
     res.status(200).json(data);
   } catch (error) {
-    console.error("MongoDB connection failed:", error);
-    res.status(500).json({ error: "Internal Server Error", detail: error.message });
+    console.error("MongoDB connection error:", error);
+    res.status(500).json({ error: "Failed to fetch data" });
+  } finally {
+    await client.close();
   }
 }
