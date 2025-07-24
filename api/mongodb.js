@@ -1,6 +1,6 @@
 import { MongoClient } from "mongodb";
 
-console.log("ENV DUMP:", process.env); // 👈 Add this line
+console.log("ENV DUMP:", process.env);
 
 const uri = process.env.MONGODB_URI;
 console.log("Using URI:", uri);
@@ -32,3 +32,4 @@ export default async function handler(req, res) {
     res.status(500).json({ error: "Query failed", detail: error.message });
   }
 }
+
