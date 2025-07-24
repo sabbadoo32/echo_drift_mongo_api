@@ -8,6 +8,7 @@ console.log("Using URI:", uri);
 let cachedClient = null;
 
 export default async function handler(req, res) {
+  const collectionName = req.query.collection || 'Echo_Drifts';  // Default to Echo_Drifts if no collection specified
   if (!cachedClient) {
     const client = new MongoClient(uri);
     try {
@@ -23,8 +24,8 @@ export default async function handler(req, res) {
   }
 
   try {
-    const db = cachedClient.db("EchoDrift");
-    const collection = db.collection("Modules");
+    const db = cachedClient.db("EchoDrrift");
+    const collection = db.collection(collectionName);
     const data = await collection.find({}).toArray();
     res.status(200).json(data);
   } catch (error) {
