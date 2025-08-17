@@ -1,0 +1,3 @@
+[submodule "echo_drift_mongo_api"]
+	path = echo_drift_mongo_api
+	url = https://github.com/sabbadoo32/echo_drift_mongo_api.git

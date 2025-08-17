@@ -1,0 +1,117 @@
+TuxedoMan Arc — The Evaluator’s Chair
+Scenes and Run of Module 1 — “The Sensor Planet”
+==================================================
+
+🎬 Arc Prologue Cinematic — “Flashback at Bravo Battery”
+INT: BRAVO BATTERY — BATTLE REENACTMENT SIMULATION
+Tazk relives the loop. Plasma, failure, silence—then the man in formalwear steps into the smoke.
+
+TuxedoMan: “That moment never leaves you. But it’s not the end. I’m here to give you another beginning.”
+
+The memory freezes. “You showed honor—not just in battle, but in retreat… That’s why I’ve come.”
+
+==================================================
+
+🎬 Module 1 Opening Cinematic — “The Conference Room”
+INT: SECURE ROOM — UNKNOWN STARBASE
+Charts, stellar maps, sensor diagrams flicker across the holo-table.
+
+Exposition:
+- Algol’s hidden surveillance network.
+- Sensor Planets: shielded worlds collecting bug pulses, satellite backfeeds, and psi-thread echoes.
+- Destroying one blinds Algol’s AGI over whole sectors.
+
+Mission Brief:
+- Neutralize the Sensor Planet’s shields.
+- Deliver asteroid strike into atmosphere.
+- Time limit: < 1 hour before Algol adapts.
+
+Then TuxedoMan leans forward, his tone sharper:
+
+TuxedoMan:
+“Algol is already watching. They’ve seeded your future fleet with eyes—one spy, maybe two.
+Before you can strike, you must assemble a team to smoke them out and turn them.
+That is your first task, Commander. Call them a friend from your past and future, and they will answer.”
+
+==================================================
+
+📅 Run of Module — Phase & Scene Flow
+
+SCENE 1: “Contacts & Chits” — Assemble the Spy Strike Team
+Framing: Tazk spends the night working the board—names, favors, quiet messages.
+Goal: Build a small, surgical team to help the Spy disable psionic defenses and drop the shield below 50%.
+
+Recruitment Pools:
+- Shield Saboteur (Electronics/Computer)
+- Psi-Damp Specialist (Medic/Science)
+- Stealth Infiltrator (Streetwise/Stealth)
+- Demo Engineer (Mechanic/Explosives)
+- Insert Pilot (Pilot/Navigation)
+
+Skill Gates: Leadership, Streetwise/Investigate, Broker/Persuade.
+
+Echo Outcomes:
+- Surgical Edge (3+ successes)
+- Thin Margin (2)
+- Blunt Instrument (≤1)
+
+--------------------------------------------------
+
+SCENE 2: “Big Board” — Assemble the Fleet
+Fleet posture: Firepower Bias / ECM + Fighters / Balanced.
+Skill Gates: Leadership, Tactics.
+Echo Outcome: Fleet Readiness tag affects later attrition.
+
+--------------------------------------------------
+
+SCENE 3: “The Rock Garden” — Asteroid Candidate & Jump-Sculpt
+Fleet + scientists select rubble belt, plot jump dispersal.
+Skill Gates: Sensors, Mechanic, Tactics.
+Echo Outcomes: Perfect / Good / Messy Spread.
+
+--------------------------------------------------
+
+SCENE 4: “Rendezvous” — Team ↔ Spy Link-Up
+The strike team links with the Spy at a quiet handover point.
+Objective: stage psionic suppression and map shield interlocks.
+
+Echo Outcomes:
+- Tuned & Quiet (−50% shield achievable)
+- Compromised (−30%)
+- Burned (alerted Algol; +enemy readiness)
+
+--------------------------------------------------
+
+SCENE 5: “Approach Vector” — Debris Jump & Initial Clash
+Phases: Debris Bloom → Ship-to-Ship → Optional Boarding.
+Skill Gates: Leadership, Tactics, Gunnery, Mechanic.
+Echo Outcomes: Clean / Bloody / Choked Corridor.
+
+--------------------------------------------------
+
+SCENE 6: “The Window” — Shield Trigger & Countdown
+Spy signals; shield sag initiated. Fleet has <1 hour.
+Fixed Points:
+- Fleet engages under debris storm.
+- Strike team links with Spy.
+- Shield sag trigger fired.
+
+Curtain: Tazk has the corridor, the team, and the countdown running. The asteroid impact and deeper emitter mission roll into Module 2.
+
+==================================================
+
+🎯 End State (Module 1)
+- Fleet committed; corridor secured at cost.
+- Spy allied, team staged.
+- Shield sag active (<1 hour window).
+
+Recorded Echo Tags:
+- Team Quality: Surgical Edge / Thin Margin / Blunt Instrument.
+- Fleet Posture: Firepower / ECM / Balanced.
+- Rock Garden: Perfect / Good / Messy.
+- Approach: Clean / Bloody / Choked.
+
+These tags shape Module 2’s difficulty, losses, and asteroid strike effectiveness.
+
+==================================================
+End of Module 1: “The Sensor Planet”

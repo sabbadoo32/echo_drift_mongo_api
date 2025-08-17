@@ -1,0 +1,80 @@
+Echo Drift: Scenes and Run of Module 3
+
+ "Gracefall" (The Gunner's Loop)
+🎮 Format: Tactical Subspace Escape Thriller
+🎭 Tone: Submarine warfare meets psychological drift collapse
+⏱ Timeline: Occurs in 10 tactical turns with dynamic time-ahead mechanic
+==================================================
+📍 SETTING:
+* Location: Subspace drift corridor near Kalaris Belt
+* Starting State: Tazk aboard the prototype vessel Grace, 4 minutes ahead of Ophelia’s intercept AI
+* Objective: Reach the wormhole before Ophelia locks the vessel's coordinates
+==================================================
+🎬 SCENE STRUCTURE (RUN OF MODULE)
+🔸 TURN 1: “Launch Pattern”
+* Choose route: Chronosec Intercept Path / Smuggler’s Drift / Hidden Tunnel
+* Diagnostics: Sensor pings, nav-map alignment
+* Echo Drift Event: Autopilot flicker (course correction or Echo override)
+* Time Update: Player sees starting +4 minutes buffer
+
+🔸 TURN 2: “Silent Run”
+* Action: Enable/disable Grace’s heat signature and comms
+* Threat: AI trace attempt
+* Skill: Pilot + Electronics
+* Echo Drift: Flash of Bravo Battery voice; disorients nav display
+* Outcome: Stealth bonus or internal glitch
+
+🔸 TURN 3: “Ghost Ping”
+* Use: Decoy beacon or noise trap
+* Risk: Detection vs damage tradeoff
+* Drift: Reflection of Tazk in viewport doesn’t sync
+
+🔸 TURN 4: “Course Divergence”
+* Branches: Commit to route path / reroute at risk
+* Bonus: Learn from smuggler nav signature
+* Echo Drift: Hallucinated broadcast from lost crewmember
+
+🔸 TURN 5: “Dead Interval”
+* Time Check: Countdown status revealed
+* Threat: Radiation spike or hull stress
+* Decision: Hold course vs emergency realign
+* Echo Drift: Mirror corridor manifests within Grace
+
+🔸 TURN 6: “Ophelia Proximity”
+* Event: First voice message from OPHELIA AI
+* Action: Ignore, spoof, or respond
+* Echo Drift: Time lag in speech response
+* Time Cost: Actions here influence trace speed
+
+🔸 TURN 7: “The Drift Knife”
+* Use of FIM or similar device to cut Echo link
+* Choice: Self-harm to block Drift channel or allow ghost fusion
+* Risk: Psychological damage vs stealth gain
+
+🔸 TURN 8: “Interference Bloom”
+* EM storm in corridor disrupts nav
+* Requires: Vacc Suit skill to rewire access node manually
+* Drift: Crew ghost walks down hallway and vanishes
+
+🔸 TURN 9: “Lock or Let Go”
+* Countdown report: Remaining time exposed
+* Final Echo: Image of sailor who died in Mod 1 seen aboard
+* System Decision: Enable jump nav or trigger internal sabotage
+
+FIXED POINT - MANDATORY CINEMATIC: DO NOT SKIP OR MODIFY
+🔸 TURN 10: “Jump Window”
+* Wormhole opens
+* Jump Attempt: Based on time left and drift stability
+* Drift Collapse: Tazk sees all of Bravo Battery at stations
+* Ending Branch:
+   * Clean Jump: If >1 min remains
+   * Under Fire: 0.1–0.9 min
+   * Intercept: ≤0 min = Lock-on
+==================================================
+🎯 MECHANICS OVERVIEW
+* Echo Drifts occur each turn, escalating in intensity
+* Time-Ahead starts at +4 minutes
+* Countdown revealed at Turns 1, 5, 9
+* Decisions affect time delta, OPHELIA response, Drift influence
+==================================================
+END MODULE 3 RUN OF SHOW

@@ -1,0 +1,112 @@
+Echo Drift: Scenes and Run of Module 1, v3
+Insertion Scene 1: “Gunmetal Sky”
+Scene Subtitle: "Storm Front"
+🌌 Setting:
+* Ship: CNS Vindicator, a mid-tier capital assault ship in the Voss Conflict
+* Location: Low orbit over the fractured moon of Kael-9
+* Player Role: Lt. Commander Iren Tazk, turret gunner commander, Bravo Battery, dorsal arc
+________________
+
+FIXED POINT - MANDATORY CINEMATIC: DO NOT SKIP OR MODIFY
+📽️ Opening Cinematic (GPT may paraphrase):
+"Battle was chaos. It always was. But this time, it broke us."
+A string of red indicators blink across your console—missiles inbound. Dozens. Maybe hundreds.
+You see the targeting telemetry scream past your eyes. Your gun crews call out trajectories. Then—
+Silence.
+The forward starboard turret blooms into fire.
+The comms fill with static, screams, nothing.
+You ordered them to hold position. And now they're gone.
+________________
+
+
+🔀 Immediate Player Prompt (Turn 1):
+Print prompt:
+“You are alone in the dorsal command pod. The rest of your crew is silent. You have 36 seconds before the second wave hits. What do you do?”
+________________
+
+
+🎯 Skill-Gated Scene Options (GPT interprets player intent):
+Character skills and scores influence the outcome. Tazk does not die.
+1. Redirect Power to Shields
+   * Skill: Mechanic (INT or EDU)
+   * Effect: Reduces next blast damage
+   * Echo Consequence: System stress degrades later navigation
+2. Evacuate to Internal Corridor
+   * Skill: Vacc Suit (DEX) or Athletics (END)
+   * Effect: Escape pod early; less injury
+   * Echo Consequence: Command logs lost
+3. Attempt to Save Bravo Battery Logs
+   * Skill: Electronics or Computer
+   * Effect: Logs preserved
+   * Echo Consequence: Dream layer includes echo NPCs of fallen crew
+4. Broadcast Final Orders to Surviving Gunners
+   * Skill: Leadership or Tactics
+   * Effect: May inspire AI or distant turrets
+   * Echo Consequence: Phantom gun crew may appear in dreams
+________________
+
+
+📍 Fixed Point: Missile Impact on Dorsal Section
+Narrative Anchor:
+The CNS Vindicator's dorsal section is destroyed. This is a major story event initiating Scene 2.
+Must Occur:
+* Missile strike obliterates turret pod
+* Tazk is ejected or escapes into internal corridor
+* He is injured; oxygen drops to 16%
+* Scene 2 begins
+GPT Flex Zone:
+* How Tazk exits:
+   * If player evacuated → He dodges last moment, injury minor
+   * If saving logs or issuing orders → Thrown violently, injury severe
+   * If failed check → Consciousness fades, AI backup triggers emergency ejection
+* What is lost or preserved: Based on skill outcomes (logs, gear, hallucinations, oxygen mix)
+* Atmospheric cues: GPT may vary tone: explosive decompression, psychic dissonance, radio ghost fragments
+Echo Tag:
+* Impacts dream hallucinations and AI reactions in Module 2
+________________
+
+
+Scene 2: “The Crawl”
+🛠️ Scene Transition:
+Interior corridor is collapsing
+AI voice distorted: “Structural integrity… 12%…”
+A dying crew member reaches toward you: “They’re not gone… I saw one move…”
+Player Choices:
+* Decide to help the crewman (may slow progress)
+* Retrieve final log entry from wall terminal (bonus XP or Echo consequence)
+* Navigate collapsing hallway (avoid debris—DEX or END check)
+Scene Outcomes:
+* Helping crewman adds Echo tag: "Witnessed Compassion"
+* Failing to retrieve logs weakens later NPC recognition
+* Collision or success changes next scene’s physical state (injury, suit breach)
+________________
+
+
+Scene 3: “The Final Transmission of the CNS Vindicator, by Iren Tazk”
+Setting:
+* Escape Pod 5-A
+* With or without wounded sailor
+* Pod auto-launches after player hits "Escape" button
+Player Tasks:
+1. Navigate debris field
+   * Skill Check: Pilot or INT
+   * On success → Smooth egress
+   * On failure → Pod grazes wreckage; must course-correct manually (2–3 obstacles)
+2. Manage Damage
+   * Skill: Mechanic or Electronics
+   * Repair navigation/shields, or risk further damage
+3. Sound Beacon and Enter Hypersleep
+   * GPT prints final log sequence
+   * Player may customize final message (optional flavor text)
+📍 Fixed Point: Scene Ends in Hypersleep
+* Tazk sees a proximity alert flicker briefly—unidentified
+* A red diagnostic warning begins flashing on the medscan HUD
+* His vision fades—no time left to interpret or respond
+* The sailor lies motionless beside him, but he’s already drifting under sedation
+* As he slips into hypersleep, the final image in his mind is the crew—standing as they once were
+* Their faces are whole, voices silent, the gun deck lit in peace
+* This image echoes forward
+________________
+
+
+End Module 1

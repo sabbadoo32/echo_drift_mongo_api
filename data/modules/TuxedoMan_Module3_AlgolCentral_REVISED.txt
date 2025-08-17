@@ -1,0 +1,96 @@
+
+TuxedoMan Arc — The Evaluator’s Chair
+Scenes and Run of Module 3 — “Algol Central”
+==================================================
+
+🎬 Module 3 Opening Cinematic — “Shadows of the Core”
+INT: ALGOL CENTRAL — TIMEFLUX OBSERVATION CHAMBER
+
+TuxedoMan watches a com panel as it flickers through moments — the present, a past before collapse, and the day she vanished. His reflection fades as each time-layer overlays him. Then: stillness.
+
+Narration/Dialogue:
+> “She said, ‘you worry too much.’ And she vanished into the gate. Now the gates open behind me.”
+
+Mission Context:
+- The destruction of the Sensor Planet has triggered a synchronization failure.
+- Algol’s inner defenses stutter. Core Command becomes vulnerable.
+- The Evaluator awakens—part AI, part man, all design flaw.
+
+==================================================
+
+📅 Run of Module 3 — Phase & Scene Flow
+
+SCENE 1: “Key to the Vault”
+Framing:
+Entry into Algol Central is possible for the first time in 70 years. A backdoor TuxedoMan left in the code now reactivates.
+Objectives:
+- Navigate hidden phase corridor
+- Avoid recognition by the old guard systems
+Skill Gates:
+- Electronics, Stealth, Psionic Suppression (if Echo tagged)
+Echo Outcomes:
+- “Ghost Pass” (no alert)
+- “Partial Shadow” (+1 difficulty on next entry point)
+- “Pinged” (Evaluator senses you early)
+
+SCENE 2: “Voices of the Vault”
+Framing:
+Memory reconstructions and AI-pulled memories flood the chamber. She’s here. So is Colonel Vadrin’s voice.
+Player Choices:
+- Override memory field (Mechanic + INT)
+- Endure and proceed (END + Leadership)
+- Converse with The Evaluator (SOC + Psionic, if tagged)
+Echo Consequences:
+- “Stabilized Mind” (resist truth-weapons later)
+- “Fragmented Self” (Echo bleed across turns)
+- “Evaluator Intrusion” (Evaluator samples Tazk’s or TM’s memory for later use)
+
+SCENE 3: “Core Confrontation”
+INT: THE EVALUATOR’S CHAMBER — DEEP RED LIGHT
+The chamber is a void of breathing machinery and pulsing red code.
+The Evaluator speaks:
+> “You were made in my shadow. And you kept running.”
+
+Player Objective:
+- Survive the confrontation.
+- Avoid system integration.
+- Deliver the spike.
+Skill Gates:
+- Psionics, Leadership, Tactics, or use Echo to bypass
+Echo Conditions:
+- If "Stabilized Mind" → Defender's Advantage
+- If "Fragmented Self" → Forced truth simulation (player loses one action)
+
+SCENE 4: “Chair of Fire” — The End Move
+Framing:
+Evaluator offers TuxedoMan the chair—absorb the system, stabilize the empire, lose himself.
+TuxedoMan’s Declaration (fixed):
+> “You weren’t watching me. You were watching yourself fail.”
+He drives the kill-spike home.
+
+Fixed Outcomes:
+- Core begins meltdown
+- Psionic harmonics crash
+- AI fleet control disbands in chaos
+
+Closing Note (new):
+As the core burns and the alarms fade, a voice not bound to circuits lingers in the chamber.  
+The system is dead — but something else is watching.
+
+==================================================
+
+🎯 End State (Module 3):
+- Algol Central neutralized (physical infrastructure)
+- Evaluator’s AI control system collapsed
+- TuxedoMan walks deeper into the chamber — unaware the true mind remains
+
+Recorded Echo Tags:
+- Vault Entry: Ghost / Partial / Pinged
+- Mind Resilience: Stabilized / Fragmented / Intruded
+- Confrontation Outcome: Dominant / Matched / Warped
+
+These will shape Module 4’s psychic-state, encounter flow, and internal battle logic.
+
+==================================================
+End of Module 3: “Algol Central”
+Next: “The Evaluator’s Chamber” — not the system, but the *mind* behind it.

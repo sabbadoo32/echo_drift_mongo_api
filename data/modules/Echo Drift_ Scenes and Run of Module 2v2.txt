@@ -1,0 +1,134 @@
+Echo Drift: Scenes and Run of Module 2
+Title: “Midnight Gale”
+
+🌌 OVERVIEW–these events occur over the span of 12 to 18 months.
+Setting: Mavros-V orbital station and subsurface trenches
+Tone: Cold war paranoia, unraveling identity, covert action, psychological decay
+Player Character: Lt. Cmdr Iren Tazk (under forged identity)
+Narrative Function: Transition from reintegration attempt to psychological rupture and rogue exfiltration.
+
+FIXED POINT - MANDATORY CINEMATIC: DO NOT SKIP OR MODIFY
+🔹 Insertion Cinematic Scene 1: “Zone Drift”
+Scene: Cargo Bay – Reintegration Zone 9C / 7A
+Cinematic (printable):
+Tazk wakes groggy in a stasis pod. Emergency lights flicker. A nearby sign alternates between ‘Zone 9C’ and ‘Zone 7A’. No one else reacts. Tazk says nothing.
+Fixed Point: First Echo Drift
+Environmental signage shifts—visible to Tazk only
+A technician mutters: “That’s the third override today...”
+Tazk proceeds in silence; this begins the memory bleed effect
+
+🔶 Scene 2: “Reintegration Interview”
+Scene: CUUFAB Command Zone – Intake Room
+Tasz is given a new name and realizes he needs to get back to his time in a planned, rational way. Chronosec has a record of the battle and his ship, but not him or the pod. He doesn’t know when or where he is, so it’s better to blend in and look for a way out than be a rebel from the beginning. He convinces a Chronosec intake officer that he can and should work.
+NPCs: Officer Rhess (Chronosec intake), PsyDept evaluator, temporal tech
+Player Interactions:
+Dialogue skill checks (Admin, Persuade, Deception)
+Questions about duty, losses, drift symptoms
+Voluntary or involuntary PsyDept scan (INT vs Will)
+Fixed Point: Psychological Echo Tag Assigned
+Logs show zero physical corruption, but irregular dream state
+Tazk’s Echo Tag is initiated (invisible to him)
+
+🔶 Scene 3: “Probationary Duty”
+Scene: Observation Decks, Reactor Walks, EVA Prep
+Tasks:
+Reactor diagnostic
+External salvage assist
+Sensor net recalibration
+Gameplay:
+Command or Engineering skill checks
+Chance to impress or alert Chronosec
+Friend NPC introduced (Junior tech or logistics operator)
+Echo Drift 2 (Fixed Point):
+A hallway shifts. Tazk hits a wall where a door should be.
+Crew laughs. One jokes, “That’s three for Marrin!”
+Two more Echo Drifts occur, Game Manager’s choice
+Player choice to react: internal monologue unlocks if they don’t speak
+The drifts heighten his awareness of the need to go. They unknowingly invite scrutiny from Chronosec.
+
+🔶 Scene 4: “Subshell Descent”
+Scene: Theta-14 Trench via mag-rail
+Tasz now understands some of what’s going on with him. Through NPCs he finds out who Chronosec is and what they’re doing. Tasz is very wary but is beginning to trust people.
+Objective:
+Investigate anomaly flagged by Dren Vallas
+Environmental hazard: collapsing rail, AI noise interference
+Fixed Point: Echo Drift 3
+Tazk hears Bravo Battery voices in static
+A warning light pulses in sequence from turret logs
+Player may suppress reaction or follow voices
+Skill Checks:
+Pilot (rail nav), Vacc Suit (movement), Recon (mapping)
+
+🔶 Scene 5: “The Ardent Nix”
+Scene: Buried Dart-class wreck, deep in trench wall
+By now he understands wormholes and the history of the space around where he appeared.
+Discovery:
+Manual Field Integrity Modulator (FIM)
+No power signature—officially erased
+Gameplay:
+Electronics or Mechanic check to extract FIM
+Stealth check to avoid auto-pings
+Fixed Point: Echo Drift 4
+As Tazk lifts the FIM, turret hum begins behind him
+A voice says: “Range set. Arc ready.” No one is there
+The wreck hull feels warm—alive
+
+🔶 Scene 6: “Hangar 9”
+Scene: Disguised grav-tunnel to hidden sub-hangar
+He knows Chronosec is and will be looking at him. So he leans into not just looking like he’s assimilating, he starts making perhaps a friend. Meanwhile, Chronosec is actually looking at him. One day he’s suspect the other nothing to see.
+Discovery:
+Midnight Gale: sublight prototype vessel
+No registry, handwritten tag: “There & Back”
+Gameplay:
+Memory trigger roll (INT or SOC)
+Flashback if Echo conditions met (Bravo Battery appears)
+Fixed Point:
+Tazk remembers the blast
+A breath of sand hits his teeth (phantom sensation)
+Emotional Drift locks in—player loses name of one fallen crewmate
+
+🔶 Scene 7: “The Ghost in the Mirror”
+Scene: Barrack cube, post-shift
+Tazk reflects on his growing ties—his name, memories fading. He has mapped three routes back to the wormhole. He knows Chronosec has eyes on him, so one of his routes will be along an old subsector that was once known as a smuggling route.
+Player Prompt:
+Recall call-signs
+Message Cray about drift
+Begin prepping the Gale silently
+Fixed Point: Echo Drift 6
+Tasz looks in the mirror. Reflection lags for half a second
+He realizes he forgot one of their names
+The one he swore never to forget
+
+🔶 Scene 8: “Thread the Eye”
+Scene: Chronosec Relay Node, Deep Access
+Through his network of NPC friends, he’s ready to go. Chronosec has their eye on him but still don’t know whether he’s a threat, hiding in plain sight or assimilating.
+Objective:
+Steal blacksite data proving wormhole viability
+Tools:
+Clearance (from promotion)
+Map (from Vallas)
+Diversion (Echo-induced or player-scripted)
+Gameplay:
+Stealth, Electronics, Deception checks
+Retrieve logs showing Drift breaks identity/memory boundaries
+Fixed Point:
+Midnight Gale was part of a Drift anchor test
+OPHELIA Protocol is triggered by Echo intensity spike
+Tazk flagged in Chronosec syste
+
+FIXED POINT - MANDATORY CINEMATIC: DO NOT SKIP OR MODIFY
+🔶 Scene 9: “Launch Window”
+Scene: Hangar 9, pre-launch sequence
+Actions:
+Install FIM
+Bypass Gale’s lockout
+Choose route (hide in commercial/trade route traffic, a straight-line sprint directly to the wormhole or a slow trip along an old smuggler route)
+Fixed Point: Echo Drift 7 – Final Pre-Jump Drift
+As Tazk seals the hatch, he sees hallway flicker to a turret corridor
+Ghostly crew forms briefly—he hears: “Ready when you are, sir.”
+Then: darkness. The Gale launches
+🖚 Module End Cinematic:
+Clean Escape: All checks passed, no trace
+Partial Trace: One log or ping missed
+Under Fire: Trace detected, OPHELIA intensifies
+End Module 2

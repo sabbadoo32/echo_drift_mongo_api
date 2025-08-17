@@ -1,0 +1,92 @@
+
+TuxedoMan Arc — The Evaluator’s Chair
+Scenes and Run of Module 2 — “The Spy, the Favor, the World Once Freed”
+
+🎬 Opening Cinematic — “Demonstration and Return”
+INT: ARCHIVAL ROOM — ABANDONED STATION (FLASHBACK)
+
+Footage replays of TuxedoMan demonstrating how his interdimensional escape system works. It overlays charts showing the masking of dimensional transfers via cosmic background noise. A quiet, early morning on a new world fades in—the Spy walks through misty soil once sterilized by AGI strikes, now alive again. He breathes. TuxedoMan’s voice echoes:
+“History won’t remember this world. But you will. When I call, you’ll answer.”
+
+CUT TO: PRESENT DAY — The Spy receives the signal.
+
+📅 Run of Module — Phase & Scene Flow
+
+SCENE 1: “Debt of Silence” — Spy Recruits His Allies
+Framing: The Spy activates old favors: former Algol officers, dissenting engineers, compromised diplomats.
+
+NPCs Introduced:
+- Erin Valcoris – Disgraced diplomatic architect hiding on Mirax-Sel. She holds the emitter encryption key theory.
+- Kull Draan – Rogue engineer with access to phase-scan tools. Stationed aboard a junkbarge orbiting a dead satellite.
+
+Goal: Uncover location of the disguised emitter feeding the Sensor Planet.
+Skill Gates: Streetwise, Persuade, Electronics, Science
+Echo Outcomes:
+- Deep Tap (3+ successes): Precise location & unguarded path
+- Fractured Web (2): Intel gained, some security still active
+- Leaky Source (≤1): Enemy alerted; security hardens
+
+SCENE 2: “Relay Grave” — Infiltrate the Emitter
+Framing: A ruined comms array hidden in a dead zone of orbital static.
+Goal: Breach emitter disguised as a decaying relay; plant disruptor beacon.
+Skill Gates: Stealth, Mechanic, Explosives, Tactics
+Fixed Point: Radiation field disables conventional scans.
+Echo Outcomes:
+- Clean Sever: Emitter destroyed, no signal
+- Blowback: Partial detonation; masked pulse leaks
+- Burn Mark: Enemy senses disruption, prepares counterforce
+
+SCENE 3: “Foxtrot Black” — Tazk’s Fleet Intercept
+Framing: Tazk leads an ECM frigate, Marine transport, and strike squadrons to intercept a rogue Algol battle group approaching the Sensor World.
+
+NPCs Introduced:
+- Major Cas Virell – Commander of Blackshade Company, leads the Marine boarding team.
+- Commander Ayel Thorn – ECM specialist aboard the CNS Jade Hollow, in charge of comm-jamming and signal masking.
+
+Skill Gates: Leadership, Gunnery, Pilot, Tactics
+Phases:
+- Dogfights (use Foxbat mechanics)
+- Frigate ECM duel
+- Marine boarding (optional)
+Echo Outcomes:
+- Flawless Break: Enemy broken before comms transmit
+- Forced Breach: Comm-link severed just before transmission
+- Late Cut: Partial broadcast; alert spreads
+
+SCENE 4: “Link-Up” — Spy & Tazk Teams Merge
+Framing: A field handover under aurora-glow; fading radiation trails from the emitter site.
+Objective: Share intel, finalize shield-collapse window.
+Echo Outcomes:
+- Tuned Sequence: −50% shield achievable
+- Scrambled: −30%
+- Overheard: Algol taps into the handoff
+
+SCENE 5: “Descent in Fire” — Asteroid Strike & Collapse
+Fixed Sequence:
+- Countdown active (<1 hour)
+- Planet begins destabilization
+- Final transmissions from allies ring out
+
+Echo Cues:
+- “We’re burning but holding the line!”
+- “Field collapsing. We’re through!”
+- “No time—jump now!”
+
+Impact Outcome Tags:
+- Planet Vaporized (Surgical Success): Clean blackout of the sensor grid
+- Orbital Spill (Partial): AGI detection staggered but partial system persists
+- Dimensional Bleed (Failure): Echo Drift ripples trigger prematurely
+
+🎯 End State (Module 2)
+- Sensor Planet shield fully compromised
+- Radiation emitter gone
+- Spy’s debt fulfilled
+- Tazk now Echo-tagged with “Multi-Theater Command”
+- Algol’s perception fractures—opening Module 3
+
+Recorded Echo Tags:
+- Spy Network: Deep Tap / Fractured Web / Leaky Source
+- Emitter Breach: Clean Sever / Blowback / Burn Mark
+- Fleet Intercept: Flawless / Forced / Late Cut
+- Final Handoff: Tuned / Scrambled / Overheard
+- Strike Result: Vaporized / Spill / Bleed

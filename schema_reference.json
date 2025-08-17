@@ -1,0 +1,171 @@
+{
+  "Echo_Drifts": {
+    "description": "Echo events and their effects",
+    "schema": {
+      "echoID": "string (format: ECHO-XXX)",
+      "title": "string",
+      "source": "string (character or entity causing the echo)",
+      "target": "string (affected entity or system)",
+      "visibility": "string (High/Medium/Low)",
+      "method": "string (how the echo manifests)",
+      "type": "string (category of echo effect)",
+      "consequences": "string (immediate and long-term effects)",
+      "replayReference": "string (module/scene reference)"
+    }
+  },
+  "NPCs": {
+    "description": "Non-player characters and their roles",
+    "schema": {
+      "Name": "string",
+      "Affiliation": "string (organization or faction)",
+      "Role": "string (function in narrative)",
+      "background": "string (optional)",
+      "skills": ["string"] ,
+      "traits": ["string"],
+      "notable_events": ["string"],
+      "status": "string"
+    }
+  },
+  "Modules": {
+    "description": "Game modules with scenes or turns",
+    "schema": {
+      "module": "string (module identifier)",
+      "title": "string",
+      "focus": "string (optional, module objective)",
+      "scenes": [{
+        "id": "string (format: MX-SCY)",
+        "title": "string",
+        "subtitle": "string (optional)",
+        "setting": {
+          "location": "string",
+          "player_role": "string"
+        },
+        "opening_cinematic": "string",
+        "prompt": "string",
+        "options": [{
+          "action": "string",
+          "skill": ["string"],
+          "effect": "string",
+          "echo_consequence": "string"
+        }],
+        "fixed_point": {
+          "event": "string",
+          "conditions": ["string"],
+          "outcome_variation": {
+            "if_evacuated": "string",
+            "if_saving_logs": "string",
+            "if_failed_check": "string"
+          }
+        },
+        "echo_tag": "string"
+      }],
+      "turns": [{
+        "turn": "string (e.g., 'Turn 1', '2-4')",
+        "title": "string",
+        "description": "string",
+        "decisions": ["string (player choices)"],
+        "rolls": ["string (skill checks)"],
+        "echo": "string (turn-specific echo effect)"
+      }],
+      "final_note": "string"
+    }
+  },
+  "Characters": {
+    "description": "Detailed character information (extends NPC schema)",
+    "schema": {
+      "characterName": "string",
+      "serviceID": "string",
+      "upp": "string (format: XXXXXX)",
+      "branch": "string",
+      "attributes": {
+        "strength": "number (2-15)",
+        "dexterity": "number (2-15)",
+        "endurance": "number (2-15)",
+        "intelligence": "number (2-15)",
+        "education": "number (2-15)",
+        "social": "number (2-15)"
+      },
+      "skills": {
+        "gunnery": "number",
+        "tactics": "number",
+        "leadership": "number",
+        "mechanics": "number",
+        "sensors": "number",
+        "streetwise": "number"
+      },
+      "traits": ["string"],
+      "psychProfile": {
+        "mindset": "string",
+        "ethics": "string",
+        "disciplinary": "string",
+        "watchStatus": "string"
+      },
+      "career": {
+        "preStasisRole": "string",
+        "education": "string",
+        "serviceRecord": ["string"]
+      },
+      "stasisIncident": {
+        "event": "string",
+        "escape": "string",
+        "anomaly": "string",
+        "recovery": "string"
+      },
+      "currentStatus": {
+        "alias": "string",
+        "assignment": "string",
+        "echoDriftStatus": "string (ACTIVE/INACTIVE)",
+        "temporalAnchor": "string (STABLE/UNSTABLE)",
+        "risk": "string"
+      },
+      "longTermNarrative": {
+        "role": ["string"],
+        "tags": ["string"]
+      }
+    }
+  },
+  "Timeline": {
+    "description": "Story arcs and their progression",
+    "schema": {
+      "arc": "string",
+      "totalDurationMonths": "string",
+      "modules": [{
+        "name": "string",
+        "moduleNumber": "number",
+        "altTitle": "string (optional)",
+        "type": "string (optional, e.g., 'interval')",
+        "duration": "string",
+        "context": "string (optional)",
+        "drifts": "string (optional)",
+        "phases": [{
+          "phase": "string",
+          "keyBeat": "string",
+          "name": "string (optional)",
+          "span": "string (optional)",
+          "developments": "string (optional)",
+          "turn": "number/string (optional)",
+          "description": "string (optional)"
+        }],
+        "echoStatus": "string (optional)",
+        "chronosecReaction": "string (optional)",
+        "countdownMechanic": {
+          "start": "string",
+          "revealedTurns": ["number"],
+          "outcomes": {
+            "condition": "string (outcome)"
+          }
+        }
+      }],
+      "designNotes": ["string"]
+    }
+  },
+  "Intel_Assets": {
+    "description": "Intelligence items and materials",
+    "schema": {
+      "Item": "string (name and classification)",
+      "Origin": "string (source location/system)",
+      "Relevance": "string (tactical/strategic importance)",
+      "CurrentStatus": "string (deployment/availability)"
+    }
+  }
+}
