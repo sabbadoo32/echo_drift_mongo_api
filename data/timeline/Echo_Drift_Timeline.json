@@ -1,0 +1,124 @@
+{
+  "arc": "Echo Drift",
+  "total_duration": "12\u201318 months (In-World Time)",
+  "modules": [
+    {
+      "module": "Gunmetal Sky",
+      "duration": "~72 Hours",
+      "events": [
+        "Immediate trauma",
+        "Survival",
+        "Hypersleep induction",
+        "Seed trauma \u2192 Ghost crew memory imprint"
+      ]
+    },
+    {
+      "interval": "Post-Escape Drift \u2192 Chronosec Retrieval",
+      "duration": "2\u20133 Weeks",
+      "context": "Recovery, transport, asset classification",
+      "drifts": "Minor (subconscious only)"
+    },
+    {
+      "module": "Midnight Gale",
+      "duration": "~12\u201314 Months",
+      "phases": [
+        {
+          "phase": "Reintegration & Testing",
+          "duration": "Months 1\u20133",
+          "key_developments": [
+            "Interviews",
+            "Duty trials",
+            "Social anchor seeds"
+          ]
+        },
+        {
+          "phase": "Subshell Exploration",
+          "duration": "Months 4\u20136",
+          "key_developments": [
+            "FIM recovery",
+            "Trench hazard",
+            "Ardent Nix find"
+          ]
+        },
+        {
+          "phase": "Identity Erosion Deepens",
+          "duration": "Months 7\u201311",
+          "key_developments": [
+            "Echo Drifts escalate",
+            "Friendships deepen"
+          ]
+        },
+        {
+          "phase": "Emotional Conflict Phase",
+          "duration": "Month 12",
+          "key_developments": [
+            "Memory failures",
+            "Self-doubt",
+            "\u201cMirror\u201d moment"
+          ]
+        },
+        {
+          "phase": "Infiltration & Escape",
+          "duration": "Final 2\u20134 weeks",
+          "key_developments": [
+            "Data theft",
+            "OPHELIA triggers",
+            "Gale prep/launch"
+          ]
+        }
+      ],
+      "echo_drift_status": "Escalating from first fixed Drift (Zone Flicker) to final blackout memory-state",
+      "chronosec_reaction": "Gradual \u2192 Debated \u2192 Active Protocol (OPHELIA)"
+    },
+    {
+      "module": "Gracefall",
+      "subtitle": "The Gunner's Loop",
+      "duration": "~10 Turns",
+      "turns": [
+        {
+          "turn": 1,
+          "description": "Route selection + initial systems diagnostic"
+        },
+        {
+          "turn": "2\u20134",
+          "description": "Echo manifestations, minor hazards, stealth actions"
+        },
+        {
+          "turn": 5,
+          "description": "Midpoint check: Countdown revealed again"
+        },
+        {
+          "turn": "6\u20138",
+          "description": "OPHELIA begins infiltration, Echo betrayals possible"
+        },
+        {
+          "turn": 9,
+          "description": "Final drift event + pre-wormhole window status update"
+        },
+        {
+          "turn": 10,
+          "description": "Wormhole opens: Escape, engagement, or capture path branches"
+        }
+      ],
+      "countdown": {
+        "start_time": "+4 minutes",
+        "modifiers": "Actions or failures modify time remaining",
+        "shown_at_turns": [
+          1,
+          5,
+          9
+        ],
+        "end_conditions": {
+          "1_min": "Clean jump",
+          "0.1\u20130.9_min": "Jump under fire / Echo corruption",
+          "\u22640_min": "Grace intercepted, capture/alternate path"
+        }
+      }
+    }
+  ],
+  "design_notes": [
+    "Echo Drift is progressive and systemic\u2014player cannot opt out",
+    "Countdown mechanic balances clarity and tension",
+    "Chart anchors scene design, NPC response tempo, Echo layering, and pursuit logic"
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "EchoID":"TX-001",
+    "Title":"First Contact \u2013 Sensor Planet Briefing",
+    "Source":"TuxedoMan",
+    "Target":"Tazk",
+    "Visibility":"Private",
+    "Method":"Narrative Entry",
+    "Type":"Narrative Trigger",
+    "Consequences":"Initiates arc-wide campaign against Algol surveillance net",
+    "ReplayReference":"Module I \u2013 Briefing Scene"
+  },
+  {
+    "EchoID":"TX-002",
+    "Title":"The Spy\u2019s Favor Redeemed",
+    "Source":"TuxedoMan",
+    "Target":"Unnamed Spy",
+    "Visibility":"Hidden",
+    "Method":"Favor Recall",
+    "Type":"Legacy Activation",
+    "Consequences":"Enables destruction of shield power relay node",
+    "ReplayReference":"Module II \u2013 Spy Flashback"
+  },
+  {
+    "EchoID":"TX-003",
+    "Title":"Fleet Descent Over Algol",
+    "Source":"Tazk",
+    "Target":"Joint Resistance Forces",
+    "Visibility":"Open",
+    "Method":"Military Operation",
+    "Type":"Combat Coordination",
+    "Consequences":"Prevents Algol reinforcements from intercepting Spy team",
+    "ReplayReference":"Module II \u2013 Fleet Combat Phase"
+  },
+  {
+    "EchoID":"TX-004",
+    "Title":"Evaluator Chamber Entry",
+    "Source":"TuxedoMan",
+    "Target":"The Evaluator",
+    "Visibility":"Locked",
+    "Method":"Direct Infiltration",
+    "Type":"Core Decision Node",
+    "Consequences":"Sets up AI collapse sequence and emotional climax",
+    "ReplayReference":"Module III \u2013 Core Scene"
+  },
+  {
+    "EchoID":"TX-005",
+    "Title":"The Kill-Spike Drive",
+    "Source":"TuxedoMan",
+    "Target":"The Evaluator Core",
+    "Visibility":"Systemic",
+    "Method":"Failsafe Spike",
+    "Type":"Failstate Override",
+    "Consequences":"Destabilizes Algol Empire\u2019s psionic and surveillance grid",
+    "ReplayReference":"Module IV \u2013 Kill-Spike Moment"
+  },
+  {
+    "EchoID":"TX-006",
+    "Title":"The Drift Begins",
+    "Source":"System",
+    "Target":"All Arcs",
+    "Visibility":"Mythic",
+    "Method":"Echo Cascade",
+    "Type":"Echo Cascade",
+    "Consequences":"TuxedoMan vanishes; seeds new dimensional instability across known space",
+    "ReplayReference":"Module V \u2013 Closing Cinematic"
+  }
+]

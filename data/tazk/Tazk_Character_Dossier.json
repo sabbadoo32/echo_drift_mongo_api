@@ -1,0 +1,69 @@
+{
+  "characterName": "Lt. Commander Iren Tazk",
+  "serviceID": "CN-203-114-A",
+  "upp": "877A96",
+  "branch": "Naval Command, CNS Fleet",
+  "attributes": {
+    "strength": 8,
+    "dexterity": 7,
+    "endurance": 7,
+    "intelligence": 10,
+    "education": 9,
+    "social": 6
+  },
+  "skills": {
+    "gunnery": 2,
+    "tactics": 2,
+    "leadership": 2,
+    "mechanics": 1,
+    "sensors": 1,
+    "streetwise": 1
+  },
+  "traits": [
+    "Calm Under Fire",
+    "Temporal Displacement Immunity? (Pending)",
+    "Chronosec Surveillance Flag",
+    "Command Chain Loyalist – Pragmatic"
+  ],
+  "psychProfile": {
+    "mindset": "Tactical, thoughtful, not a heat-seeker",
+    "ethics": "Pragmatic, loyal to crew, guilt-driven",
+    "disciplinary": "No infractions",
+    "watchStatus": "Class-B Chronosec behavioral drift flag"
+  },
+  "career": {
+    "preStasisRole": "Dorsal Gunnery Officer, CNS Vindicator",
+    "education": "CNS Military Institute, 3rd in class",
+    "serviceRecord": [
+      "Kael Conflict - live-fire boarding ops",
+      "Fast-tracked for Weapons Commander"
+    ]
+  },
+  "stasisIncident": {
+    "event": "Missile swarm destroyed CNS Vindicator",
+    "escape": "Pod launched, stasis activated",
+    "anomaly": "Passed through rogue wormhole, emerged 52 years later",
+    "recovery": "Found by Chronosec Custodian-class vessel"
+  },
+  "currentStatus": {
+    "alias": "Janos Marrin",
+    "assignment": "Kalaris Station, Hull Ops",
+    "echoDriftStatus": "ACTIVE",
+    "temporalAnchor": "UNSTABLE",
+    "risk": "OPHELIA escalation risk"
+  },
+  "longTermNarrative": {
+    "role": [
+      "Anchor figure amid unstable personalities",
+      "Military-caliber command discipline",
+      "Develops resistance to temporal anomalies",
+      "Candidate for multithread leadership"
+    ],
+    "tags": [
+      "Temporal Drift Survivor",
+      "Flag-Rank Potential",
+      "Bravo Battery Legacy",
+      "Chronosec Target: Soft Risk"
+    ]
+  }
+}

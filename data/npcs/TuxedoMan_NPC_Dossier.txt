@@ -1,0 +1,74 @@
+
+NPC DOSSIER: TuxedoMan
+=======================
+
+Code Designation: TXM-001
+Known Alias(es): The Tuxedo Man, The Evaluator's Error, Algol’s Driftghost, "He Who Moves Quietly"
+Apparent Species: Human (Algol-Origin)
+Age: Unknown (Temporal inconsistencies detected; appears ~40s)
+Current Attire: Formal black tuxedo, unwrinkled; minimal accessories. Wears a chronolocked timepiece that occasionally emits harmonic tones.
+
+PSYCHOMETRIC PROFILE
+---------------------
+Disposition: Stoic, introspective, but disarming in conversation
+Emotional Landscape: Private mourning with a calm, practical facade
+Motivation Core: Fix what automation broke—rescue futures before they're erased
+Leadership Style: Offers pathways, never commands. Lets others choose.
+Observed Traits:
+  - [Temporal Engineering Mastery]
+  - [Post-AI Philosophy]
+  - [Unregistered Compassion Routines]
+  - [Dimensional Lock Nullifier]
+  - [Failsafe Carrier—Class Omega]
+
+BACKSTORY (Summarized)
+-----------------------
+Once an Algol systems engineer and AI-integrated researcher, TuxedoMan diverged after a personal tragedy involving a failed time-travel experiment that claimed his wife. Disillusioned by over-automated futures, he shifted toward dimensional migration—offering quiet escapes to systems on the brink.
+
+He operates solo but is never alone. His mythos forms from the aftermath of his interventions. He does not recruit. He opens doors.
+
+CAPABILITIES
+-------------
+Skill                         | Level | Description
+-----------------------------|--------|--------------------------------------------
+Dimensional Navigation       |   5    | Can map and traverse unstable space-time corridors manually.
+Temporal Engineering         |   5    | Designs, corrects, or collapses time-anchored systems.
+AI Subversion                |   4    | Exploits logic gaps in AGI-driven civilizations.
+Persuasion (Philosophical)  |   3    | Instills calm urgency without manipulation.
+Survival (Void Systems)      |   4    | Operates with minimal life support or external systems.
+Encryption/Decryption        |   3    | Universal cipher access from past favors.
+Espionage Strategy           |   4    | Orchestrates layered strikes using volunteers—not pawns.
+
+KEY ECHO EVENTS
+----------------
+- Echo: “Signal She Sang”
+  A sonic broadcast that enabled a dimensional jump—mythologized by the Argent Choir.
+
+- Echo: “Sensor Planet Blackout”
+  Kinetic strike that blinded Algol’s surveillance web.
+
+- Echo: “Kill-Spike Entry”
+  Final infiltration of The Evaluator, using a failsafe crafted long ago.
+
+- Echo: “The Drift Begins”
+  Post-collapse, he vanished—leaving only harmonic echoes across space.
+
+PHILOSOPHY & PERSONAL CODE
+---------------------------
+On Power: "It’s not about control. It’s about creating doors for those who’ve been locked in."
+On Time Travel: "Understanding it is not the same as using it. I’ve learned the cost."
+On AI: "Useful tools. Terrible gods."
+On Regret: "If I ever find a version of her… I won’t speak. I’ll just listen."
+
+CLASSIFIED WARNINGS
+---------------------
+- Class A Threat to Closed Systems
+- Time Contamination Potential
+- Dimensional Gateway Knowledge (beyond sanctioned use)
+
+RELATIONSHIP TO TAZK
+----------------------
+Motivation: Sees in Tazk the rare capacity to endure and decide under pressure.
+Role: Catalyst, not commander.
+Belief: That Tazk may one day sit in the same chair—and choose differently.
+

@@ -1,0 +1,97 @@
+[
+  {
+    "Name":"Agent Rhess",
+    "Affiliation":"Chronosec",
+    "Role":"Senior operative, manages OPHELIA operations"
+  },
+  {
+    "Name":"Cmdr. Nira Veldt",
+    "Affiliation":"Chronosec",
+    "Role":"Interrogator, subtly suspicious"
+  },
+  {
+    "Name":"Dr. Harven Tull",
+    "Affiliation":"Chronosec",
+    "Role":"Psychiatric Evaluation"
+  },
+  {
+    "Name":"Capt. Rhys Dren",
+    "Affiliation":"Chronosec",
+    "Role":"Temporal Examiner"
+  },
+  {
+    "Name":"Dr. Ysen Halvorn",
+    "Affiliation":"Chronosec",
+    "Role":"Psychiatrist, monitors decay patterns"
+  },
+  {
+    "Name":"OPS TECH",
+    "Affiliation":"Chronosec",
+    "Role":"Technical lead, voice of conscience"
+  },
+  {
+    "Name":"Janx",
+    "Affiliation":"Kalaris Station",
+    "Role":"Maintenance or patrol crew, ally"
+  },
+  {
+    "Name":"Vorrin",
+    "Affiliation":"Kalaris Station",
+    "Role":"Anchor NPC, insight into drift"
+  },
+  {
+    "Name":"Sal Keffir",
+    "Affiliation":"Kalaris Station",
+    "Role":"Sensor Technician"
+  },
+  {
+    "Name":"Vren Saro",
+    "Affiliation":"Kalaris Station",
+    "Role":"Hull Ops Supervisor"
+  },
+  {
+    "Name":"Lt. Elra Mox",
+    "Affiliation":"Kalaris Station",
+    "Role":"Salvage Mission Leader"
+  },
+  {
+    "Name":"Technician in Reintegration Zone",
+    "Affiliation":"Background",
+    "Role":"Adds to early dissonance"
+  },
+  {
+    "Name":"Maintenance Tech on Mess Deck",
+    "Affiliation":"Background",
+    "Role":"Memory misalignment hint"
+  },
+  {
+    "Name":"EVA Locker Tech",
+    "Affiliation":"Background",
+    "Role":"Supportive, humorous"
+  },
+  {
+    "Name":"Crew Betting on 'Wall Hits'",
+    "Affiliation":"Background",
+    "Role":"Station background culture"
+  },
+  {
+    "Name":"Dream Echo Crew (Bravo Battery)",
+    "Affiliation":"Echo",
+    "Role":"Appear in dream fragments"
+  },
+  {
+    "Name":"OPHELIA",
+    "Affiliation":"Non-Traditional Entity",
+    "Role":"Time\/memory entity, destabilizer"
+  },
+  {
+    "Name":"Dren Vallas",
+    "Affiliation":"Theta-14",
+    "Role":"Disgraced engineer, FIM tech contact"
+  },
+  {
+    "Name":"Sergeant Mel Cray",
+    "Affiliation":"Mavros-V",
+    "Role":"Security\/former Chronosec, narrative fork"
+  }
+]

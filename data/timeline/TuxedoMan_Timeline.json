@@ -1,0 +1,96 @@
+{
+  "arc": "TuxedoMan",
+  "total_duration": "8\u201314 months (In-World Time)",
+  "modules": [
+    {
+      "module": "The Sensor Planet",
+      "duration": "~6\u20138 Weeks",
+      "key_beats": [
+        "Tazk meets TuxedoMan",
+        "Assembly of capital fleet",
+        "Strike on shielded Sensor World",
+        "Asteroid-driven kinetic vaporization"
+      ],
+      "outcomes": [
+        "Full vaporization = total sensor blindness",
+        "Orbit disruption = Algol partial visibility collapse",
+        "Failure = Emergency Algol re-synchronization"
+      ]
+    },
+    {
+      "interval": "Warband Rise",
+      "duration": "2\u20133 Months",
+      "key_activities": [
+        "Resistance cell awakenings",
+        "Emergence of myth-based squadrons",
+        "Spy\u2019s activation and tracking of radiation-linked Algol relay"
+      ]
+    },
+    {
+      "module": "The Spy, the Favor, the World Once Freed",
+      "duration": "~6\u201310 Weeks",
+      "paths": {
+        "Spy Path": [
+          "Deep Algol infiltration",
+          "Facility breach and relay destruction"
+        ],
+        "Tazk Path": [
+          "Leads dogfight campaign",
+          "Disables fleet communications",
+          "Secures orbital superiority"
+        ]
+      },
+      "echo_trigger": "Simultaneous victories allow TuxedoMan to approach Algol Central undetected"
+    },
+    {
+      "interval": "Blindfolded Empire",
+      "duration": "~3\u20136 Weeks",
+      "consequences": [
+        "Conflicting subroutines in surveillance grid",
+        "Psionic misfires and public confusion",
+        "TuxedoMan advances toward the Core"
+      ]
+    },
+    {
+      "module": "The Real Mission \u2014 Algol Central",
+      "duration": "~7\u201310 Days",
+      "phases": [
+        "Infiltrates Core architecture",
+        "Encounters The Evaluator",
+        "Decision branches: assume control or initiate collapse"
+      ],
+      "evaluator_defense": [
+        "Simulated memory failures",
+        "Regret-echoes and psionic hallucinations",
+        "Prophecy of system stability"
+      ]
+    },
+    {
+      "module": "The Evaluator\u2019s Chamber",
+      "duration": "Player-Controlled Scene Loop (3\u20135 Core Decisions)",
+      "sequence": [
+        "Memory simulation begins",
+        "Player resists or concedes",
+        "Kill-spike protocol available after 2nd failure",
+        "Collapse or takeover path activates"
+      ],
+      "design_note": "Memory illusions draw from prior Echo tags"
+    },
+    {
+      "module": "The Choice",
+      "duration": "Single Scene / Campaign End",
+      "options": [
+        "TuxedoMan takes The Chair \u2192 System stabilizes, identity fragments",
+        "Kill-Spike to Core \u2192 Algol AI collapses, empire fractures",
+        "Mutual merge \u2192 Conscious paradox, AI reboot unknown"
+      ]
+    }
+  ],
+  "design_notes": [
+    "TuxedoMan arc is reactive, interwoven with Echo Drift and sector timelines",
+    "Spy character never named\u2014acts as mirror of TuxedoMan's quiet legacy",
+    "Algol systems respond to failure with overreach, not aggression",
+    "Emotional resolution for TuxedoMan is framed around memory control, not violence",
+    "Each choice ends a regime\u2014but shapes what follows differently"
+  ]
+}

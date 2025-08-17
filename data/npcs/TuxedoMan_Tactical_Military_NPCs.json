@@ -1,0 +1,107 @@
+{
+  "Fleet_Command": [
+    {
+      "Name": "Cmdr. Tyce Renlar",
+      "Role": "Fleet Tactician",
+      "Specialty": "ECM coordination, field formation restructuring",
+      "Personality": "Blunt, calculative, loyal to Tazk, distrusts 'Drifters'",
+      "Tags": [
+        "Fleet Tactician",
+        "Echo-Skeptic",
+        "Chain-of-Command Loyalist"
+      ]
+    },
+    {
+      "Name": "Capt. Myrah Gann",
+      "Role": "Commander of assault carrier Halberd Vox",
+      "Specialty": "Deep insertion support, marine shuttle release timing",
+      "Personality": "Detached professional, records all missions",
+      "Tags": [
+        "Carrier Commander",
+        "Battle Recorder",
+        "Legacy-Oriented"
+      ]
+    },
+    {
+      "Name": "Lt. Sil Vorn",
+      "Role": "Fire Control Lead",
+      "Specialty": "Simultaneous launch timing, anti-cruiser spread logic",
+      "Personality": "Young, humor-driven, known as 'Magnet Hands'",
+      "Tags": [
+        "Fire Control",
+        "Comms Juggler",
+        "Fleet Darling"
+      ]
+    }
+  ],
+  "Marine_Strike_Operatives": [
+    {
+      "Name": "Sgt. Nima Kell",
+      "Role": "Space Marine Breach Team Leader",
+      "Specialty": "Zero-G breach, close-quarters command",
+      "Personality": "Resolute, terse, protective of subordinates",
+      "Tags": [
+        "Breach Lead",
+        "No One Left Behind",
+        "Algol-Hater"
+      ]
+    },
+    {
+      "Name": "Cpl. Dres 'Echo' Varr",
+      "Role": "Psionic field disruption specialist",
+      "Specialty": "Counter-Echo tech, boarding resistance",
+      "Personality": "Reckless, eager, believes in TuxedoMan",
+      "Tags": [
+        "Psionic Null",
+        "Faithful Flame",
+        "High Risk"
+      ]
+    },
+    {
+      "Name": "Spc. Ro Taleth",
+      "Role": "Heavy gunner and override",
+      "Specialty": "Interface spike routines, breach suppression",
+      "Personality": "Quiet, tea drinker, hums during assaults",
+      "Tags": [
+        "Heavy Entry",
+        "Override Lancer",
+        "Calm in Chaos"
+      ]
+    }
+  ],
+  "Pilots": [
+    {
+      "Name": "Cmdr. Vex Halden ('Fox Leader')",
+      "Role": "Lead pilot of Foxbat Squadron",
+      "Specialty": "Intercepts and swarm disorientation",
+      "Personality": "Charismatic, improvisational",
+      "Tags": [
+        "Interceptor Ace",
+        "Squad Magnet",
+        "Risk-Master"
+      ]
+    },
+    {
+      "Name": "Lt. Arya Vonn ('Phantom Lead')",
+      "Role": "Lead pilot of Phantom Flight",
+      "Specialty": "Sensor shadowing, ECM disrupts",
+      "Personality": "Deadpan, soft-spoken, brilliant",
+      "Tags": [
+        "Recon Ghost",
+        "Signal Bleeder",
+        "Stealth Maestro"
+      ]
+    },
+    {
+      "Name": "Ensign Pil Barr",
+      "Role": "Rookie ECM dragnet pilot",
+      "Specialty": "Agile, fast-react positioning",
+      "Personality": "Nervous, idolizes squad leaders",
+      "Tags": [
+        "Rookie",
+        "Follower",
+        "Potential Spark"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "Item":"Kill-Spike Core Implant",
+    "Origin":"TuxedoMan\u2019s personal vault",
+    "Relevance":"Final weapon to destroy The Evaluator",
+    "CurrentStatus":"Used; fused into Evaluator\u2019s AI lattice"
+  },
+  {
+    "Item":"Sensor Planet Star Maps",
+    "Origin":"Subspace leak from Algol survey grid",
+    "Relevance":"Enabled planetary targeting and approach planning",
+    "CurrentStatus":"Destroyed alongside the Sensor Planet"
+  },
+  {
+    "Item":"Shield Disruptor Core",
+    "Origin":"Recovered from Resistance Engineers in Crescent Ring",
+    "Relevance":"Crucial for breaching planetary defense grid",
+    "CurrentStatus":"Expended during orbital insertion"
+  },
+  {
+    "Item":"Battle Choir Resonator",
+    "Origin":"Argent Choir Archives",
+    "Relevance":"Used to synchronize rebel fleet comms against Algol jamming",
+    "CurrentStatus":"Active; network echo persists across systems"
+  },
+  {
+    "Item":"Spy\u2019s Universal Cipher Patch",
+    "Origin":"TuxedoMan's encoded favor log",
+    "Relevance":"Provided backdoor access to Algol systems",
+    "CurrentStatus":"Burned after second activation"
+  },
+  {
+    "Item":"Evaluator\u2019s Core Map Fragment",
+    "Origin":"Stolen by defector from Algol Central",
+    "Relevance":"Revealed chamber location and neural protocol",
+    "CurrentStatus":"Delivered to TuxedoMan before final descent"
+  }
+]

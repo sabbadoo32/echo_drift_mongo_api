@@ -1,0 +1,234 @@
+Echo Drift NPCs
+
+
+Chronosec NPCs
+1. Agent Rhess
+   * Role: Senior Chronosec operative; calm, calculating.
+   * Seen managing OPHELIA operations.
+   * Key quote: “We’ve committed. We finish the protocol. Or we answer to something much worse than guilt.”
+   * Role: Chronosec Internal Affairs/Enforcer-type agent
+   * Function: Post-scene retribution; begins trace on leak and OPHELIA breach
+   * Notable: Appears at end of Module 2 as a cold closer ("Find out who let him go")
+2. Cmdr. Nira Veldt
+   * Role: Chronosec Officer (Interrogator)
+   * Personality: Dispassionate, composed, subtly suspicious
+   * Dialogue: “You survived a battle no one remembers. Let’s find out what else history forgot.”
+3. Dr. Harven Tull
+   * Role: Psychiatric Evaluation (Mental Fitness)
+   * Personality: Jovial but probing; masks intensity with calm
+   * Dialogue: “Ever feel like your dreams are leaking into reality? Humor me, Commander.”
+4. Capt. Rhys Dren
+   * Role: Temporal Examiner
+   * Personality: Clinical, precise, uninterested in drama
+   * Dialogue: “You’re intact… mostly. The drift signature says otherwise.”
+5. Dr. Ysen Halvorn
+   * Role: Chronosec Psychiatrist (Surveillance Tier)
+   * Personality: Intellectual, cautious, monitors for decay patterns
+   * Dialogue: “Some minds drift quietly. Yours seems to be planning a route.”
+6. OPS TECH (Name not given)
+   * Role: On-site technical lead for Chronosec operations.
+   * Serves as Rhess’s subordinate and voice of uncertainty about Protocol fallout.
+   * Key trait: Conscience. Highlights the collateral damage from OPHELIA’s actions.
+________________
+
+
+✅ Kalaris Station Figures
+1. Janx
+   * Role: Ally to Tazk.
+   * Possibly part of maintenance or patrol crews.
+   * Risked attention from Chronosec to give Tazk space in Hangar 9.
+   * May have helped reroute or distract patrol teams briefly.
+   * Role: Unseen saboteur/sympathizer inside Chronosec systems
+   * Action: Triggered patrol diversion loop to delay security sweep
+   * Visibility: Medium (Echo-qualified)
+   * Final Action: Completed before Tazk reached the Gale
+   * 2. Vorrin
+   * Role: Anchor NPC during Module 1 orientation and dream reconnection.
+   * Provides insight into Tazk’s temporal drift.
+   * Suggested Tazk is not “anchored,” sparking player realization.
+
+
+3. Sal Keffir
+   * Role: Sensor Technician
+   * Personality: Inquisitive, playful, tech-obsessed
+   * Dialogue: “You actually served on a Vindicator-class? Tell me it wasn’t as clunky as the vids make it look.”
+
+
+4. Vren Saro
+   * Role: Hull Ops Supervisor
+   * Personality: Gruff, fair, no-nonsense
+   * Dialogue: “You pull rank again, Tazk, and you’re scrubbing coolant valves for a week. Copy?”
+
+
+5. Lt. Elra Mox
+   * Role: Salvage Mission Leader (Custodian-Class Wreck)
+   * Personality: By-the-book, tactical, strict
+   * Dialogue: “Chronosec didn’t greenlight salvage so you could souvenir hunt. Don’t make me file a note.”
+
+
+________________
+
+
+✅ Background/Fleeting NPCs
+5. Technician in Reintegration Zone
+   * Role: Observes overlapping signage in cargo bay (Zone 9C vs 7A).
+   * Adds to early dissonance in Tazk’s perception.
+6. Maintenance Tech on Mess Deck
+   * Role: Delivers repeated “First day on this deck?” line, hinting at looped or misaligned memory strata.
+7. EVA Locker Tech
+   * Role: Comments on structure shifts during EVA prep; adds humor and support.
+8. Crew Betting on “Wall Hits”
+   * Group of casual station members; joking about Tazk running into wrong-placed doors.
+9. Dream Echo Crew (Bravo Battery)
+   * Appear in dream fragments.
+   * Some wear Kalaris badges, blending real memories with misaligned Echo constructs.
+________________
+
+
+✅ Major Entity (Non-Human or Non-Traditional NPC)
+10. OPHELIA
+* Not an AI—implied to be something more, or something entangled with time/memory.
+* Central to Chronosec protocol failure and Echo instability.
+* Seen triggering massive unrest and memory conflict cascades.
+* Fails to execute complete memory wipes, leading to civilian resistance and grid failures.
+
+
+
+SUPPORTING CHARACTER: DREN VALLAS
+Role: Disgraced Chronosec Engineer / Off-grid Technician
+Location: Site Theta-14, Mavros-V
+Age: Late 40s
+Appearance: Pale skin splotched with radiation freckles, cracked goggles always hanging around his neck, perpetual smell of ionized metal.
+Status: Field tech contractor, technically cleared—socially avoided.
+________________
+
+
+🧩 BACKSTORY & FUNCTION:
+   * Once led a retro-tech research unit at a blacksite lab called “Fathom-6”, decommissioned after a containment breach during a wormhole stability experiment.
+   * Now works salvage on Mavros under tight leash. No one trusts him, but no one knows analog systems like he does.
+   * Thinks modern ship systems are a trap—and speaks in riddles, metaphors, and half-wired logic.
+________________
+
+
+🎬 FIRST INTERACTION SCENE
+Location: Wreck under Theta-14, Fused Deck Tunnel
+Tazk finds Vallas wrist-deep in fried cabling inside a hull bloom.
+A soft whine buzzes around him—unstable power, but rhythmic. Almost musical.
+DREN VALLAS (without turning):
+“You hear it? The pulse? That’s not a capacitor hum. That’s residual field longing. Old tech remembers movement... even through time.”
+Tazk steps in.
+Tazk:
+“Looking for nav-core backups. Anything older than 6th gen.”
+VALLAS (still fiddling):
+“You’re looking for something else. Aren’t we all? There’s a Dart-class wreck beneath Subshell 4. Fathom-6 buried it quiet—wasn’t supposed to fly. But it did. And it came back twitching.”
+Tazk (measured):
+“And the FIM?”
+VALLAS (pauses):
+“You want one that isn’t networked. One that doesn’t care what year it is.”
+He finally looks up, eyes glowing behind cracked lenses.
+VALLAS (whispers):
+“Careful. That kind of tech... it doesn’t just stabilize. It remembers.”
+________________
+
+
+Would you like this interaction to trigger a minor skill check or tracking mission (e.g. Sensors or Recon to reach Subshell 4), or have Vallas demand a favor in exchange for coordinates?
+You said:
+Something casual, I don't want this guy to be a threat. Maybe he demands the same treat or piece of info, or something that's important to him but not to the story.
+ChatGPT said:
+Got it. We’ll make Dren Vallas eccentric but harmless—a quirky relic-hound with no agenda beyond his little comforts. His help comes at the price of a ritualized trade, something small that means everything to him and nothing to the mission.
+________________
+
+
+🎬 Updated Scene: Casual Bargain with Vallas
+Location: Theta-14 Wreck Cluster, Subhull Vent Stack
+Sound: Electrostatic chatter, sand hissing over metal
+Tazk climbs into a semi-pressurized hull space. Faint glow of a repair torch flickers below. He finds Vallas kneeling by a rust-stained junction board, splicing wire by feel.
+DREN VALLAS:
+“Don’t touch the orange conduit. It hums like it wants to be touched—but it bites.”
+Tazk steps over a cracked frame. Sits on a crate.
+TAZK:
+“You mentioned a Dart-class. Said it came back.”
+VALLAS:
+“Came back wrong. But whole. Mostly. Has the box you’re hunting.”
+(He squints)
+“Field Integrity Modulator, right? You want the kind that doesn’t speak code. One that just listens.”
+Tazk waits.
+VALLAS (leans in conspiratorially):
+“I’ll give you the map to Subshell 4. But you gotta bring me one thing.”
+TAZK:
+“What is it?”
+VALLAS:
+“Vanta gum. The kind they stopped making two years ago. Black foil. Smells like burnt stars.”
+Tazk stares. Deadpan.
+VALLAS (grinning):
+“I chew it when I map drift echoes. Helps me focus.”
+________________
+
+
+🪙 Quest Item: Vanta Gum Pack
+   * Found at the Mavros-V supply kiosk or stashed in a transport locker.
+   * Optional: Can make it a minor scavenging side loop.
+   * Doesn’t impact the narrative—but gives the world flavor and makes Vallas more real.
+Would you like to continue with:
+   * Tazk retrieving the gum (brief downtime beat)
+   * Vallas giving him the data map to Subshell 4
+   * Or an encounter en route to Subshell 4 (like ambient Echo flicker)?
+You said:
+perfect. We can come back to this guy in this mod and the final one, if necessary.
+ChatGPT said:
+Locked: Dren Vallas is now an anchored side character—eccentric, nonthreatening, valuable, and revisitable in both this module and the finale. He’s your analog bridge to ancient tech and old truths.
+
+SUPPORTING CHARACTER: Sergeant Mel Cray
+Role: Former Chronosec Forward Security
+Current Position: Mavros-V landing support / ship ID clerk
+Appearance: Worn flight suit, prosthetic leg, half-vaped voice, carries a sidearm but never turns it on
+Reputation: Respected but volatile. Says what others won’t. Still reads threat surfaces like field data.
+________________
+
+
+🧩 FUNCTION IN STORY
+   * Knows too much about ship disappearance protocols.
+   * Carries guilt over a mission lost to Echo Drift—won’t talk about it unless provoked.
+   * Recognizes Tazk as “one of the last turret ghosts.” Doesn’t fully trust him.
+   * Sees Chronosec’s deeper intention forming again—and warns Tazk subtly.
+________________
+
+
+🎬 SCENE: Registry Queue – Echo Between Lines
+Location: Mavros-V Dock Hub 3
+Sound: Hum of registry drones, rustle of forms, distant shuttle ignition
+Tazk approaches the terminal for outbound cargo manifest edits. Cray is behind the console, bored, scanning IFF tags with one eye and the horizon with the other.
+CRAY (monotone):
+"Name, sector, purpose."
+TAZK:
+"Tazk. Theta-14. Nav-core reclamation."
+Cray pauses. Taps twice. Her screen flickers.
+CRAY:
+"You know what nav-cores bleed when you dig too deep?"
+Tazk stays silent.
+CRAY (leans in):
+"Time. Not data. Not fuel. Not noise. Time. Ships that see too far into it? They come back folded. You trackin' me?"
+Tazk gives a neutral nod.
+CRAY (lowers voice):
+"You wanna disappear? That’s your business. But if you’re thinking about coming back through something you’re not supposed to... make peace with what won’t follow you."
+She stamps the manifest. Holds it a second too long before handing it over.
+________________
+
+
+Cray functions as a living warning—someone who's seen the consequences of temporal instability firsthand.
+Would you like to embed her in a second encounter later in the module (e.g., when Tazk is caught between escape or deeper involvement), or keep her at this single poignant crossroad?
+You said:
+lets bring her back. she could be a story fork
+ChatGPT said:
+Excellent choice. Sergeant Cray will now serve as a story fork node—a grounded, consequence-aware NPC who can return in:
+   * A late-module confrontation, where she tries to warn or stop Tazk from stealing or activating the FIM ship
+   * The final module, where she may appear as either:
+   * A reluctant ally (if trust is built), or
+   * A Chronosec recall agent (if burned)
+________________
+
+
+🔄 FORK LOGIC (Behind-the-Scenes Mechanics)
+   * Early Trust Signal (now): Neutral tone, vague warning
+   * Optional Mid-Module Checkpoint: If Tazk confides in her or helps her (e.g., recovers her missing prosthetic part or ship log), she becomes a conditional ally
+   * If Ignored or Lied To: She tips off Chronosec later—subtle or overt, depending on escalation

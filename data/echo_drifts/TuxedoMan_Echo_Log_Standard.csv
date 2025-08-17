@@ -1,0 +1,7 @@
+EchoID,Title,Source,Target,Visibility,Method,Type,Consequences,ReplayReference
+TX-001,First Contact – Sensor Planet Briefing,TuxedoMan,Tazk,Private,Narrative Entry,Narrative Trigger,Initiates arc-wide campaign against Algol surveillance net,Module I – Briefing Scene
+TX-002,The Spy’s Favor Redeemed,TuxedoMan,Unnamed Spy,Hidden,Favor Recall,Legacy Activation,Enables destruction of shield power relay node,Module II – Spy Flashback
+TX-003,Fleet Descent Over Algol,Tazk,Joint Resistance Forces,Open,Military Operation,Combat Coordination,Prevents Algol reinforcements from intercepting Spy team,Module II – Fleet Combat Phase
+TX-004,Evaluator Chamber Entry,TuxedoMan,The Evaluator,Locked,Direct Infiltration,Core Decision Node,Sets up AI collapse sequence and emotional climax,Module III – Core Scene
+TX-005,The Kill-Spike Drive,TuxedoMan,The Evaluator Core,Systemic,Failsafe Spike,Failstate Override,Destabilizes Algol Empire’s psionic and surveillance grid,Module IV – Kill-Spike Moment
+TX-006,The Drift Begins,System,All Arcs,Mythic,Echo Cascade,Echo Cascade,TuxedoMan vanishes; seeds new dimensional instability across known space,Module V – Closing Cinematic

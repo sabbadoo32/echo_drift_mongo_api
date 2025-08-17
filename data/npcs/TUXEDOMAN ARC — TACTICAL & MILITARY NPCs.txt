@@ -1,0 +1,51 @@
+TUXEDOMAN ARC — TACTICAL & MILITARY NPCs
+==========================================
+These characters were generated or implied through Modules 1, 2, and 5 to support the joint tactical and space combat sequences, including fleet management, marine strikes, and espionage coordination. They are now promoted to persistent NPCs within the arc.
+🛰️ FLEET COMMAND
+📛 Cmdr. Tyce Renlar
+Role: Fleet Tactician, Tazk’s second-in-command
+Specialty: ECM coordination, field formation restructuring
+Personality: Blunt, calculative, fiercely loyal to Tazk but distrustful of “Drifters”
+Tags: [Fleet Tactician] [Echo-Skeptic] [Chain-of-Command Loyalist]
+📛 Capt. Myrah Gann
+Role: Commander of the assault carrier Halberd Vox
+Specialty: Deep insertion support, marine shuttle release timing
+Personality: Detached professional, records all missions “for posthumous clarity”
+Tags: [Carrier Commander] [Battle Recorder] [Legacy-Oriented]
+📛 Lt. Sil Vorn
+Role: Fire Control Lead, missile tracking and point defense
+Specialty: Simultaneous launch timing, anti-cruiser spread logic
+Personality: Young, humor-driven, nicknamed “Magnet Hands” for saving Gann’s hull
+Tags: [Fire Control] [Comms Juggler] [Fleet Darling]
+🛡️ MARINE STRIKE OPERATIVES
+📛 Sgt. Nima Kell
+Role: Space Marine Breach Team Leader
+Specialty: Zero-G breach, close-quarters command
+Personality: Resolute, terse, but protective of subordinates
+Tags: [Breach Lead] [No One Left Behind] [Algol-Hater]
+📛 Cpl. Dres “Echo” Varr
+Role: Specialist in psionic field disruption (trained by post-OPHELIA resistance)
+Specialty: Counter-Echo tech and boarding phase resistance
+Personality: Reckless, eager, believes in the myth of TuxedoMan
+Tags: [Psionic Null] [Faithful Flame] [High Risk]
+📛 Spc. Ro Taleth
+Role: Heavy gunner and systems override on boarding missions
+Specialty: Interface spike routines, breach suppression
+Personality: Quiet, compulsive tea drinker, known for humming mid-assault
+Tags: [Heavy Entry] [Override Lancer] [Calm in Chaos]
+✈️ PILOTS
+📛 Cmdr. Vex Halden (“Fox Leader”)
+Role: Lead pilot of Foxbat Squadron (fighter interceptors)
+Specialty: Long-range intercept + swarm disorientation maneuvers
+Personality: Charismatic, borderline arrogant, known for improvisation
+Tags: [Interceptor Ace] [Squad Magnet] [Risk-Master]
+📛 Lt. Arya Vonn (“Phantom Lead”)
+Role: Lead pilot of Phantom Flight (cloaked recon-fighters)
+Specialty: Sensor shadowing, silent ECM disrupts
+Personality: Deadpan, soft-spoken, tactically brilliant
+Tags: [Recon Ghost] [Signal Bleeder] [Stealth Maestro]
+📛 Ensign Pil Barr
+Role: Rookie assigned to ECM dragnet wing
+Specialty: Agile, fast-react positioning
+Personality: Nervous, tries too hard, idolizes Vex and Arya both
+Tags: [Rookie] [Follower] [Potential Spark]

@@ -1,0 +1,104 @@
+﻿TuxedoMan Arc Timeline Reference Chart
+
+
+Here is a timeline reference chart for the TuxedoMan Arc, modeled on the structure and detail level of the Echo Drift chart you provided:
+________________
+
+
+TuxedoMan Arc: Narrative Timeline Reference Chart
+🗂️ Placement: Gameplay Folder / Referee Instructions
+________________
+
+
+🗓️ TOTAL ARC DURATION: 8–14 MONTHS (In-World Time)
+Purpose: Chronicles the covert dismantling of Algol surveillance architecture and the final confrontation within its AI core. Designed to show myth in action, trust under pressure, and how legends break systems from within.
+________________
+
+
+🔹 MODULE I: "The Sensor Planet"
+Duration: ~6–8 Weeks
+* Event Types: Strategic assembly, fleet preparation, covert planetary assault
+* Key Beats:
+   * Tazk meets TuxedoMan
+   * Assembly of capital fleet
+   * Strike on shielded Sensor World
+   * Asteroid-driven kinetic vaporization
+* Outcome Variants:
+   * Full vaporization = total sensor blindness
+   * Orbit disruption = Algol partial visibility collapse
+   * Failure = Emergency Algol re-synchronization
+________________
+
+
+🔸 INTERVAL: Warband Rise
+Duration: 2–3 Months
+* Context: Suppression attempts by Algol
+* Key Activities:
+   * Resistance cell awakenings
+   * Emergence of myth-based squadrons (e.g., Spiral Refrain, Null Saints)
+   * Spy’s activation and tracking of radiation-linked Algol relay
+________________
+
+
+🔹 MODULE II: "The Spy, the Favor, the World Once Freed"
+Duration: ~6–10 Weeks
+Dual Narrative Flow:
+1. Spy Path:
+   * Deep Algol infiltration
+   * Facility breach and relay destruction
+2. Tazk Path:
+   * Leads dogfight campaign and capital ship strike
+   * Disables fleet communications, secures orbital superiority
+* Echo Trigger:
+   * Simultaneous victories allow TuxedoMan to approach Algol Central undetected
+________________
+
+
+🔸 INTERVAL: Blindfolded Empire
+Duration: ~3–6 Weeks
+* Context: Algol neural coordination disrupted
+* Consequences:
+   * Conflicting subroutines emerge in surveillance grid
+   * Psionic misfires and public sector confusion
+   * TuxedoMan advances toward the Core
+________________
+
+
+🔹 MODULE III: "The Real Mission — Algol Central"
+Duration: ~7–10 Days
+* Phase 1: TuxedoMan infiltrates Core architecture
+* Phase 2: Encounters The Evaluator
+* Phase 3: Decision branches: assume control or initiate collapse
+* Evaluator Defense:
+   * Simulated memory failures
+   * Regret-echoes and psionic hallucinations
+   * Prophecy of system stability
+________________
+
+
+🔹 MODULE IV: "The Evaluator’s Chamber"
+Duration: Player-Controlled Scene Loop (3–5 Core Decisions)
+Sequence:
+1. Memory simulation begins
+2. Player (TuxedoMan) resists or concedes
+3. Kill-spike protocol available after 2nd failure
+4. Collapse or takeover path activates
+Design Note: Memory illusions draw from prior Echo tags.
+________________
+
+
+🔹 MODULE V: "The Choice"
+Duration: Single Scene / Campaign End
+* Option 1: TuxedoMan takes The Chair → System stabilizes, but identity fragments
+* Option 2: Kill-Spike to Core → Algol AI collapses, empire fractures
+* Option 3 (Rare): Mutual merge → Conscious paradox, AI reboot unknown
+________________
+
+
+🧠 Design Notes:
+* TuxedoMan arc is reactive, interwoven with Echo Drift and sector timelines
+* Spy character never named—acts as mirror of TuxedoMan's quiet legacy
+* Algol systems respond to failure with overreach, not aggression
+* Emotional resolution for TuxedoMan is framed around memory control, not violence
+* Each choice ends a regime—but shapes what follows differently
+________________

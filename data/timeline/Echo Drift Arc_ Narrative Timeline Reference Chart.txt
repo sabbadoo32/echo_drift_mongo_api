@@ -1,0 +1,72 @@
+﻿Echo Drift Arc: Narrative Timeline Reference Chart
+🗂️ Placement: Gameplay Folder / Referee Instructions
+________________
+
+
+🗓️ TOTAL ARC DURATION: 12–18 MONTHS (In-World Time)
+Purpose: Establish the realistic pacing, psychological decay, and operational logic of the Echo Drift arc. Supports in-world believability, character motivation, and systemic response pacing.
+________________
+
+
+🔹 MODULE 1: "Gunmetal Sky"
+Duration: ~72 Hours (including post-escape drift)
+* Event Types: Immediate trauma, survival, hypersleep induction
+* Key Beat: Seed trauma → Ghost crew memory imprint
+🔸 INTERVAL: Post-Escape Drift → Chronosec Retrieval
+Duration: 2–3 Weeks
+* Context: Recovery, transport, asset classification
+* Drifts: Minor (subconscious only)
+🔹 MODULE 2: "Midnight Gale"
+Total Duration: ~12–14 Months
+Phase
+	Time Span
+	Key Developments
+	Reintegration & Testing
+	Months 1–3
+	Interviews, duty trials, social anchor seeds
+	Subshell Exploration
+	Months 4–6
+	FIM recovery, trench hazard, Ardent Nix find
+	Identity Erosion Deepens
+	Months 7–11
+	Echo Drifts escalate, friendships deepen
+	Emotional Conflict Phase
+	Month 12
+	Memory failures, self-doubt, “Mirror” moment
+	Infiltration & Escape
+	Final 2–4 weeks
+	Data theft, OPHELIA triggers, Gale prep/launch
+	* Echo Drift Status: Escalating from first fixed Drift (Zone Flicker) to final blackout memory-state
+* Chronosec Reaction: Gradual → Debated → Active Protocol (OPHELIA)
+🔹 MODULE 3: "Gracefall" ("The Gunner's Loop")
+Total Duration: ~10 Turns (Player-Controlled Time)
+Turn Phase
+	Description
+	Turn 1
+	Route selection + initial systems diagnostic
+	Turn 2–4
+	Echo manifestations, minor hazards, stealth actions
+	Turn 5
+	Midpoint check: Countdown revealed again
+	Turn 6–8
+	OPHELIA begins infiltration, Echo betrayals possible
+	Turn 9
+	Final drift event + pre-wormhole window status update
+	Turn 10
+	Wormhole opens: Escape, engagement, or capture path branches
+	* 
+Countdown Timer: Player starts +4 minutes ahead
+   * Actions or failures modify time remaining
+   * Countdown shown at Turn 1, Turn 5, and Turn 9 only
+   * End Conditions:
+   * 1 min remaining: Clean jump
+   * 0.1–0.9 min: Jump under fire / Echo corruption
+   * ≤0 min: Grace intercepted, capture/alternate path
+________________
+
+
+🧠 Design Notes:
+   * Echo Drift is progressive and systemic—player cannot opt out
+   * Countdown mechanic balances clarity and tension
+   * This chart anchors scene design, NPC response tempo, Echo layering, and pursuit logic
+End of Chart

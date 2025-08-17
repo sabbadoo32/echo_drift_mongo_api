@@ -1,0 +1,103 @@
+{
+  "NPC_Dossier": {
+    "Code_Designation": "TXM-001",
+    "Known_Aliases": [
+      "The Tuxedo Man",
+      "The Evaluator's Error",
+      "Algol\u2019s Driftghost",
+      "He Who Moves Quietly"
+    ],
+    "Apparent_Species": "Human (Algol-Origin)",
+    "Age": "Unknown (Temporal inconsistencies detected; appears ~40s)",
+    "Current_Attire": {
+      "Description": "Formal black tuxedo, unwrinkled",
+      "Accessories": "Minimal",
+      "Special_Item": "Chronolocked timepiece that occasionally emits harmonic tones"
+    },
+    "Psychometric_Profile": {
+      "Disposition": "Stoic, introspective, but disarming in conversation",
+      "Emotional_Landscape": "Private mourning with a calm, practical facade",
+      "Motivation_Core": "Fix what automation broke\u2014rescue futures before they're erased",
+      "Leadership_Style": "Offers pathways, never commands. Lets others choose.",
+      "Observed_Traits": [
+        "Temporal Engineering Mastery",
+        "Post-AI Philosophy",
+        "Unregistered Compassion Routines",
+        "Dimensional Lock Nullifier",
+        "Failsafe Carrier\u2014Class Omega"
+      ]
+    },
+    "Backstory": "Once an Algol systems engineer and AI-integrated researcher, TuxedoMan diverged after a personal tragedy involving a failed time-travel experiment that claimed his wife. Disillusioned by over-automated futures, he shifted toward dimensional migration\u2014offering quiet escapes to systems on the brink. He operates solo but is never alone. His mythos forms from the aftermath of his interventions. He does not recruit. He opens doors.",
+    "Capabilities": [
+      {
+        "Skill": "Dimensional Navigation",
+        "Level": 5,
+        "Description": "Can map and traverse unstable space-time corridors manually."
+      },
+      {
+        "Skill": "Temporal Engineering",
+        "Level": 5,
+        "Description": "Designs, corrects, or collapses time-anchored systems."
+      },
+      {
+        "Skill": "AI Subversion",
+        "Level": 4,
+        "Description": "Exploits logic gaps in AGI-driven civilizations."
+      },
+      {
+        "Skill": "Persuasion (Philosophical)",
+        "Level": 3,
+        "Description": "Instills calm urgency without manipulation."
+      },
+      {
+        "Skill": "Survival (Void Systems)",
+        "Level": 4,
+        "Description": "Operates with minimal life support or external systems."
+      },
+      {
+        "Skill": "Encryption/Decryption",
+        "Level": 3,
+        "Description": "Universal cipher access from past favors."
+      },
+      {
+        "Skill": "Espionage Strategy",
+        "Level": 4,
+        "Description": "Orchestrates layered strikes using volunteers\u2014not pawns."
+      }
+    ],
+    "Key_Echo_Events": [
+      {
+        "Title": "Signal She Sang",
+        "Description": "A sonic broadcast that enabled a dimensional jump\u2014mythologized by the Argent Choir."
+      },
+      {
+        "Title": "Sensor Planet Blackout",
+        "Description": "Kinetic strike that blinded Algol\u2019s surveillance web."
+      },
+      {
+        "Title": "Kill-Spike Entry",
+        "Description": "Final infiltration of The Evaluator, using a failsafe crafted long ago."
+      },
+      {
+        "Title": "The Drift Begins",
+        "Description": "Post-collapse, he vanished\u2014leaving only harmonic echoes across space."
+      }
+    ],
+    "Philosophy_and_Code": {
+      "On_Power": "It\u2019s not about control. It\u2019s about creating doors for those who\u2019ve been locked in.",
+      "On_Time_Travel": "Understanding it is not the same as using it. I\u2019ve learned the cost.",
+      "On_AI": "Useful tools. Terrible gods.",
+      "On_Regret": "If I ever find a version of her\u2026 I won\u2019t speak. I\u2019ll just listen."
+    },
+    "Classified_Warnings": [
+      "Class A Threat to Closed Systems",
+      "Time Contamination Potential",
+      "Dimensional Gateway Knowledge (beyond sanctioned use)"
+    ],
+    "Relationship_to_Tazk": {
+      "Motivation": "Sees in Tazk the rare capacity to endure and decide under pressure.",
+      "Role": "Catalyst, not commander.",
+      "Belief": "That Tazk may one day sit in the same chair\u2014and choose differently."
+    }
+  }
+}
